@@ -18,7 +18,7 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 
 ## 📋 Requests:
 
-1. Provide the list of markets in which customer "AtliQ Exclusive" operates its business in the APAC region.
+* Provide the list of markets in which customer "AtliQ Exclusive" operates its business in the APAC region.
 
 * What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields, unique_products_2020 unique_products_2021 percentage_chg
 
